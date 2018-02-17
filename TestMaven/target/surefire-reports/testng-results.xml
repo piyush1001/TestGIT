@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.org.LearningMaven.TestMaven.TestGithub" duration-ms="19011" started-at="2018-02-17T04:33:48Z" finished-at="2018-02-17T04:34:07Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="19011" started-at="2018-02-17T04:33:48Z" finished-at="2018-02-17T04:34:07Z">
+      <class name="com.org.LearningMaven.TestMaven.TestGithub">
+        <test-method status="PASS" signature="testJenkin()[pri:0, instance:com.org.LearningMaven.TestMaven.TestGithub@16e8792]" name="testJenkin" duration-ms="18955" started-at="2018-02-17T10:03:48Z" finished-at="2018-02-17T10:04:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJenkin -->
+      </class> <!-- com.org.LearningMaven.TestMaven.TestGithub -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.org.LearningMaven.TestMaven.TestGithub -->
+</testng-results>
