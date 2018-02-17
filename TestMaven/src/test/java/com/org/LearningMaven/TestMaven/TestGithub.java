@@ -17,7 +17,7 @@ public class TestGithub {
 		driver.manage().window().maximize();
 
 		driver.get("https://www.google.co.in/");
-		driver.close();
+	       
 		System.out.println("Welcome to Jenkins :");
 	}
 
